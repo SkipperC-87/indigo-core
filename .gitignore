@@ -1,0 +1,5 @@
+node_modules/
+data/sessions/
+character.md
+public/models/*.vrm
+public/*-face.jpg
